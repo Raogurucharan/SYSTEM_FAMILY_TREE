@@ -1,0 +1,30 @@
+{ 
+    "father":  
+    [ 
+          {"pandu": "arjuna"}, 
+          {"pandu": "bhima"}, 
+          {"pandu": "yudistira"}, 
+          {"arjuna": "shrutharma"}, 
+          {"arjuna": "iravan"}, 
+          {"bhima": "gatog"}, 
+          {"bhima": "sutasoma"}, 
+          {"bhima": "kuntal"}, 
+          {"bhima": "taraka"}, 
+          {"bhima": "sarvaga"}, 
+          {"yudistira": "satanika"} 
+    ], 
+    "mother":  
+    [ 
+          {"kunti": "arjuna"}, 
+          {"kunti": "bhima"}, 
+          {"kunti": "yudistira"}, 
+          {"subhadra": "iravan"}, 
+          {"subhadra": "shrutharma"}, 
+          {"hidimbi": "gatog"}, 
+          {"hidimbi": "sutasoma"}, 
+          {"hidimbi": "kuntal"}, 
+          {"hidimbi": "taraka"}, 
+          {"hidimbi": "sarvaga"}, 
+          {"draupati": "satanika"} 
+    ] 
+} 
