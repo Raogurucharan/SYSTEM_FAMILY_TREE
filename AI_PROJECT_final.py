@@ -6,13 +6,6 @@
    "metadata": {},
    "outputs": [],
    "source": [
-    "# THIS IS A AI PROJECT FROM GR-8\n",
-    "# ie SYSTEM FAMILY TREE\n",
-    "# MEMBERS\n",
-    "# ->GURUCHARAN RAO [11804634]\n",
-    "# _>DINESH         [11804613]\n",
-    "# ->SWARNA KIRAN   [11804643]\n",
-    "# ->SRIKANTH       [11804655 ]\n",
     "# These relationships are specified in a file called relationships.json"
    ]
   },
